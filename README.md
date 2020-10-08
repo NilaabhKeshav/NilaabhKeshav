@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: nilaabh77keshav@gmail.com
 
 [![Nilaabh's github stats](https://github-readme-stats.vercel.app/api?username=NilaabhKeshav)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NilaabhKeshav)](https://github.com/anuraghazra/github-readme-stats)
