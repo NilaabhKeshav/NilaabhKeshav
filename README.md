@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NilaabhKeshav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 - 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on ML and DL projects
@@ -17,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Nilaabh's github stats](https://github-readme-stats.vercel.app/api?username=NilaabhKeshav)](https://github.com/anuraghazra/github-readme-stats)
 
-#[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NilaabhKeshav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
